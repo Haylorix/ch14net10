@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CalculatorLib/CalculatorLib.csproj" Id="ab240754-a6ea-4b93-a429-3ae0ce2b5374" />
+  <Project Path="CalculatorLibUnitTest/CalculatorLibUnitTest.csproj" Id="027b99dd-db74-4078-bd79-c7b59da1fcb5" />
+  <Project Path="Debugging/Debugging.csproj" Id="e9998c7a-ea55-4093-a8c3-ae5403a39d29" />
+  <Project Path="HotReloading/HotReloading.csproj" Id="6c0ec664-fcf3-4d62-80e2-377a0c40c931" />
+  <Project Path="TopLevelFunctions/TopLevelFunctions.csproj" />
+</Solution>

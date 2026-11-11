@@ -1,0 +1,14 @@
+D:\cs14net10\Chapter02\Nombers\bin\Debug\net10.0\Nombers.exe
+D:\cs14net10\Chapter02\Nombers\bin\Debug\net10.0\Nombers.deps.json
+D:\cs14net10\Chapter02\Nombers\bin\Debug\net10.0\Nombers.runtimeconfig.json
+D:\cs14net10\Chapter02\Nombers\bin\Debug\net10.0\Nombers.dll
+D:\cs14net10\Chapter02\Nombers\bin\Debug\net10.0\Nombers.pdb
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.AssemblyInfo.cs
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.dll
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\refint\Nombers.dll
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.pdb
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\Nombers.genruntimeconfig.cache
+D:\cs14net10\Chapter02\Nombers\obj\Debug\net10.0\ref\Nombers.dll

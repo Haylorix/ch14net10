@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter4\HotReloading\bin\Debug\net10.0\HotReloading.exe
+D:\cs14net10\Chapter4\HotReloading\bin\Debug\net10.0\HotReloading.deps.json
+D:\cs14net10\Chapter4\HotReloading\bin\Debug\net10.0\HotReloading.runtimeconfig.json
+D:\cs14net10\Chapter4\HotReloading\bin\Debug\net10.0\HotReloading.dll
+D:\cs14net10\Chapter4\HotReloading\bin\Debug\net10.0\HotReloading.pdb
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.AssemblyInfo.cs
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.dll
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\refint\HotReloading.dll
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.pdb
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloading.genruntimeconfig.cache
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\ref\HotReloading.dll
+D:\cs14net10\Chapter4\HotReloading\obj\Debug\net10.0\HotReloa.62509C16.Up2Date

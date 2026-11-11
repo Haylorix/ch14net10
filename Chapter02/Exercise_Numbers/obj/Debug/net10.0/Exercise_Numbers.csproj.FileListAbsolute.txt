@@ -1,0 +1,14 @@
+D:\cs14net10\Chapter02\Exercise_Numbers\bin\Debug\net10.0\Exercise_Numbers.exe
+D:\cs14net10\Chapter02\Exercise_Numbers\bin\Debug\net10.0\Exercise_Numbers.deps.json
+D:\cs14net10\Chapter02\Exercise_Numbers\bin\Debug\net10.0\Exercise_Numbers.runtimeconfig.json
+D:\cs14net10\Chapter02\Exercise_Numbers\bin\Debug\net10.0\Exercise_Numbers.dll
+D:\cs14net10\Chapter02\Exercise_Numbers\bin\Debug\net10.0\Exercise_Numbers.pdb
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.AssemblyInfo.cs
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.dll
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\refint\Exercise_Numbers.dll
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.pdb
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\Exercise_Numbers.genruntimeconfig.cache
+D:\cs14net10\Chapter02\Exercise_Numbers\obj\Debug\net10.0\ref\Exercise_Numbers.dll

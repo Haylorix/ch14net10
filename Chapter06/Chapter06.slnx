@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="classlib/PacktLibrary.csproj" />
+  <Project Path="Exercise-Inheritance/Exercise-Inheritance.csproj" Id="a64fddb0-788f-4229-ada2-fa8e8a558fea" />
+  <Project Path="NullHandling/NullHandling.csproj" Id="f6104b47-a8b4-4e44-befa-6dc33505d4fe" />
+  <Project Path="PeopleApp/PeopleApp.csproj" />
+</Solution>

@@ -1,0 +1,17 @@
+﻿using Packt.Shared;
+using System.Globalization;
+
+
+namespace PeopleApp
+{
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            
+            ConfigureConsole();
+
+        }
+    }
+}

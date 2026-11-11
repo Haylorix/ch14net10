@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Arguments/Arguments.csproj" Id="67adc82a-55dc-4bd2-b6e6-2dd0de685355" />
+  <Project Path="Exercise_Numbers/Exercise_Numbers.csproj" Id="ed37547e-da30-4004-b146-4c4b6c109526" />
+  <Project Path="Formatting/Formatting.csproj" Id="a4b219cd-ac93-4d18-8784-e4f08ae9766a" />
+  <Project Path="Nombers/Nombers.csproj" Id="eaf632fd-a598-4ffc-8aab-5763c58ad1eb" />
+  <Project Path="Variables/Variables.csproj" Id="bd3eae92-bfe8-48c2-9a07-cd3c964f017e" />
+  <Project Path="Vovabulary/Vovabulary.csproj" />
+</Solution>

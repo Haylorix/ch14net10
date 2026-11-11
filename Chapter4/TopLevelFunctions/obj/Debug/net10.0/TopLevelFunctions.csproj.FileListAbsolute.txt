@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter4\TopLevelFunctions\bin\Debug\net10.0\TopLevelFunctions.exe
+D:\cs14net10\Chapter4\TopLevelFunctions\bin\Debug\net10.0\TopLevelFunctions.deps.json
+D:\cs14net10\Chapter4\TopLevelFunctions\bin\Debug\net10.0\TopLevelFunctions.runtimeconfig.json
+D:\cs14net10\Chapter4\TopLevelFunctions\bin\Debug\net10.0\TopLevelFunctions.dll
+D:\cs14net10\Chapter4\TopLevelFunctions\bin\Debug\net10.0\TopLevelFunctions.pdb
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.AssemblyInfo.cs
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.dll
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\refint\TopLevelFunctions.dll
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.pdb
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevelFunctions.genruntimeconfig.cache
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\ref\TopLevelFunctions.dll
+D:\cs14net10\Chapter4\TopLevelFunctions\obj\Debug\net10.0\TopLevel.870FFF9A.Up2Date

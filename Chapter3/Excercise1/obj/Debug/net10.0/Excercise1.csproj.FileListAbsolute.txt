@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter3\Excercise1\bin\Debug\net10.0\Excercise1.exe
+D:\cs14net10\Chapter3\Excercise1\bin\Debug\net10.0\Excercise1.deps.json
+D:\cs14net10\Chapter3\Excercise1\bin\Debug\net10.0\Excercise1.runtimeconfig.json
+D:\cs14net10\Chapter3\Excercise1\bin\Debug\net10.0\Excercise1.dll
+D:\cs14net10\Chapter3\Excercise1\bin\Debug\net10.0\Excercise1.pdb
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.AssemblyInfo.cs
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.dll
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\refint\Excercise1.dll
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.pdb
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.genruntimeconfig.cache
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\ref\Excercise1.dll
+D:\cs14net10\Chapter3\Excercise1\obj\Debug\net10.0\Excercise1.csproj.Up2Date

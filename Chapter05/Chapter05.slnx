@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PacktLibraryModern/PacktLibraryModern.csproj" Id="ee20d3c5-4fa7-4806-9453-4bf0282ab49f" />
+  <Project Path="PacktLibraryNet2/PacktLibraryNet2.csproj" />
+  <Project Path="PeopleApp/PeopleApp.csproj" />
+</Solution>

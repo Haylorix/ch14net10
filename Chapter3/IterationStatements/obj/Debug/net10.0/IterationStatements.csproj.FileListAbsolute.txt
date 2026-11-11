@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter3\IterationStatements\bin\Debug\net10.0\IterationStatements.exe
+D:\cs14net10\Chapter3\IterationStatements\bin\Debug\net10.0\IterationStatements.deps.json
+D:\cs14net10\Chapter3\IterationStatements\bin\Debug\net10.0\IterationStatements.runtimeconfig.json
+D:\cs14net10\Chapter3\IterationStatements\bin\Debug\net10.0\IterationStatements.dll
+D:\cs14net10\Chapter3\IterationStatements\bin\Debug\net10.0\IterationStatements.pdb
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.AssemblyInfo.cs
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.dll
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\refint\IterationStatements.dll
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.pdb
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\IterationStatements.genruntimeconfig.cache
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\ref\IterationStatements.dll
+D:\cs14net10\Chapter3\IterationStatements\obj\Debug\net10.0\Iteratio.85F74C80.Up2Date

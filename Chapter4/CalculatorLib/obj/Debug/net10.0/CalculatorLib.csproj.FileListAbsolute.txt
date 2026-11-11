@@ -1,0 +1,12 @@
+D:\cs14net10\Chapter4\CalculatorLib\bin\Debug\net10.0\CalculatorLib.deps.json
+D:\cs14net10\Chapter4\CalculatorLib\bin\Debug\net10.0\CalculatorLib.dll
+D:\cs14net10\Chapter4\CalculatorLib\bin\Debug\net10.0\CalculatorLib.pdb
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\CalculatorLib.AssemblyInfo.cs
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\CalculatorLib.dll
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\refint\CalculatorLib.dll
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\CalculatorLib.pdb
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\ref\CalculatorLib.dll
+D:\cs14net10\Chapter4\CalculatorLib\obj\Debug\net10.0\Calculat.CBAABD4C.Up2Date

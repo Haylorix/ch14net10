@@ -1,0 +1,14 @@
+D:\cs14net10\Chapter02\Arguments\bin\Debug\net10.0\Arguments.exe
+D:\cs14net10\Chapter02\Arguments\bin\Debug\net10.0\Arguments.deps.json
+D:\cs14net10\Chapter02\Arguments\bin\Debug\net10.0\Arguments.runtimeconfig.json
+D:\cs14net10\Chapter02\Arguments\bin\Debug\net10.0\Arguments.dll
+D:\cs14net10\Chapter02\Arguments\bin\Debug\net10.0\Arguments.pdb
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.AssemblyInfo.cs
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.dll
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\refint\Arguments.dll
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.pdb
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\Arguments.genruntimeconfig.cache
+D:\cs14net10\Chapter02\Arguments\obj\Debug\net10.0\ref\Arguments.dll

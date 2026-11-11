@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter4\Debugging\bin\Debug\net10.0\Debugging.exe
+D:\cs14net10\Chapter4\Debugging\bin\Debug\net10.0\Debugging.deps.json
+D:\cs14net10\Chapter4\Debugging\bin\Debug\net10.0\Debugging.runtimeconfig.json
+D:\cs14net10\Chapter4\Debugging\bin\Debug\net10.0\Debugging.dll
+D:\cs14net10\Chapter4\Debugging\bin\Debug\net10.0\Debugging.pdb
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.AssemblyInfo.cs
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.dll
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\refint\Debugging.dll
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.pdb
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.genruntimeconfig.cache
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\ref\Debugging.dll
+D:\cs14net10\Chapter4\Debugging\obj\Debug\net10.0\Debugging.csproj.Up2Date

@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<!--.NET Standard 2.0 class Library can be used in by .NET Framework, Xamarin, modern .NET.-->
+	<TargetFramework>netstandard2.0</TargetFramework>
+	<LangVersion>14</LangVersion>
+  </PropertyGroup>
+	
+  <ItemGroup>
+	  <Using Include="System.Console" Static="true" />
+  </ItemGroup>
+
+</Project>

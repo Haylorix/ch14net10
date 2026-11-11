@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.AssemblyInfo.cs
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter06\NullHandling\bin\Debug\net10.0\NullHandling.exe
+D:\cs14net10\Chapter06\NullHandling\bin\Debug\net10.0\NullHandling.deps.json
+D:\cs14net10\Chapter06\NullHandling\bin\Debug\net10.0\NullHandling.runtimeconfig.json
+D:\cs14net10\Chapter06\NullHandling\bin\Debug\net10.0\NullHandling.dll
+D:\cs14net10\Chapter06\NullHandling\bin\Debug\net10.0\NullHandling.pdb
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.dll
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\refint\NullHandling.dll
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.pdb
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHandling.genruntimeconfig.cache
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\ref\NullHandling.dll
+D:\cs14net10\Chapter06\NullHandling\obj\Debug\net10.0\NullHand.E7D1F639.Up2Date

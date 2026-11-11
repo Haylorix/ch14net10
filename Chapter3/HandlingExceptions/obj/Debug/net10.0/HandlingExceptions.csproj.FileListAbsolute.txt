@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter3\HandlingExceptions\bin\Debug\net10.0\HandlingExceptions.exe
+D:\cs14net10\Chapter3\HandlingExceptions\bin\Debug\net10.0\HandlingExceptions.deps.json
+D:\cs14net10\Chapter3\HandlingExceptions\bin\Debug\net10.0\HandlingExceptions.runtimeconfig.json
+D:\cs14net10\Chapter3\HandlingExceptions\bin\Debug\net10.0\HandlingExceptions.dll
+D:\cs14net10\Chapter3\HandlingExceptions\bin\Debug\net10.0\HandlingExceptions.pdb
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.AssemblyInfo.cs
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.dll
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\refint\HandlingExceptions.dll
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.pdb
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\HandlingExceptions.genruntimeconfig.cache
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\ref\HandlingExceptions.dll
+D:\cs14net10\Chapter3\HandlingExceptions\obj\Debug\net10.0\Handling.186FB37D.Up2Date

@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter06\Exercise-Inheritance\bin\Debug\net10.0\Exercise-Inheritance.exe
+D:\cs14net10\Chapter06\Exercise-Inheritance\bin\Debug\net10.0\Exercise-Inheritance.deps.json
+D:\cs14net10\Chapter06\Exercise-Inheritance\bin\Debug\net10.0\Exercise-Inheritance.runtimeconfig.json
+D:\cs14net10\Chapter06\Exercise-Inheritance\bin\Debug\net10.0\Exercise-Inheritance.dll
+D:\cs14net10\Chapter06\Exercise-Inheritance\bin\Debug\net10.0\Exercise-Inheritance.pdb
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.AssemblyInfo.cs
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.dll
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\refint\Exercise-Inheritance.dll
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.pdb
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise-Inheritance.genruntimeconfig.cache
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\ref\Exercise-Inheritance.dll
+D:\cs14net10\Chapter06\Exercise-Inheritance\obj\Debug\net10.0\Exercise.BF2ADDA3.Up2Date

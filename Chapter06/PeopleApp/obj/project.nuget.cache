@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "1PdQmeyjSMM=",
+  "success": true,
+  "projectFilePath": "D:\\cs14net10\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\dumpify\\0.6.6\\dumpify.0.6.6.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\cs14net10\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\cs14net10\\Chapter06\\PeopleApp\\PeopleApp.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

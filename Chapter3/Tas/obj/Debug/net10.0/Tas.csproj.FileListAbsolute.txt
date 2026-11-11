@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter3\Tas\bin\Debug\net10.0\Tas.exe
+D:\cs14net10\Chapter3\Tas\bin\Debug\net10.0\Tas.deps.json
+D:\cs14net10\Chapter3\Tas\bin\Debug\net10.0\Tas.runtimeconfig.json
+D:\cs14net10\Chapter3\Tas\bin\Debug\net10.0\Tas.dll
+D:\cs14net10\Chapter3\Tas\bin\Debug\net10.0\Tas.pdb
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.AssemblyInfo.cs
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.dll
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\refint\Tas.dll
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.pdb
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.genruntimeconfig.cache
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\ref\Tas.dll
+D:\cs14net10\Chapter3\Tas\obj\Debug\net10.0\Tas.csproj.Up2Date

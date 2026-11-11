@@ -1,0 +1,14 @@
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.AssemblyInfo.cs
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter02\Vovabulary\bin\Debug\net10.0\Vovabulary.exe
+D:\cs14net10\Chapter02\Vovabulary\bin\Debug\net10.0\Vovabulary.deps.json
+D:\cs14net10\Chapter02\Vovabulary\bin\Debug\net10.0\Vovabulary.runtimeconfig.json
+D:\cs14net10\Chapter02\Vovabulary\bin\Debug\net10.0\Vovabulary.dll
+D:\cs14net10\Chapter02\Vovabulary\bin\Debug\net10.0\Vovabulary.pdb
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.dll
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\refint\Vovabulary.dll
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.pdb
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\Vovabulary.genruntimeconfig.cache
+D:\cs14net10\Chapter02\Vovabulary\obj\Debug\net10.0\ref\Vovabulary.dll

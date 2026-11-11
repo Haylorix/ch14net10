@@ -1,0 +1,12 @@
+D:\cs14net10\Chapter06\classlib\bin\Debug\net10.0\PacktLibrary.deps.json
+D:\cs14net10\Chapter06\classlib\bin\Debug\net10.0\PacktLibrary.dll
+D:\cs14net10\Chapter06\classlib\bin\Debug\net10.0\PacktLibrary.pdb
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLibrary.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLibrary.AssemblyInfo.cs
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLibrary.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLibrary.dll
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\refint\PacktLibrary.dll
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLibrary.pdb
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\ref\PacktLibrary.dll
+D:\cs14net10\Chapter06\classlib\obj\Debug\net10.0\PacktLib.99A7312C.Up2Date

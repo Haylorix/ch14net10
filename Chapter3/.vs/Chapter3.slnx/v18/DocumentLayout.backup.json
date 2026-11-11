@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs14net10\\Chapter3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA6BB98-6D17-49EE-A3AE-851BCED17E69}|Excercise2\\Excercise2.csproj|d:\\cs14net10\\chapter3\\excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA6BB98-6D17-49EE-A3AE-851BCED17E69}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA6BB98-6D17-49EE-A3AE-851BCED17E69}|Excercise2\\Excercise2.csproj|d:\\cs14net10\\chapter3\\excercise2\\excercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDA6BB98-6D17-49EE-A3AE-851BCED17E69}|Excercise2\\Excercise2.csproj|solutionrelative:excercise2\\excercise2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66822A87-9DF6-4264-B92F-AFDC163D5FC1}|HandlingExceptions\\HandlingExceptions.csproj|d:\\cs14net10\\chapter3\\handlingexceptions\\handlingexceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66822A87-9DF6-4264-B92F-AFDC163D5FC1}|HandlingExceptions\\HandlingExceptions.csproj|solutionrelative:handlingexceptions\\handlingexceptions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F206EC-2C25-404B-874D-2F49A6A62B03}|Excercise1\\Excercise1.csproj|d:\\cs14net10\\chapter3\\excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F206EC-2C25-404B-874D-2F49A6A62B03}|Excercise1\\Excercise1.csproj|solutionrelative:excercise1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F206EC-2C25-404B-874D-2F49A6A62B03}|Excercise1\\Excercise1.csproj|d:\\cs14net10\\chapter3\\excercise1\\excercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6F206EC-2C25-404B-874D-2F49A6A62B03}|Excercise1\\Excercise1.csproj|solutionrelative:excercise1\\excercise1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66822A87-9DF6-4264-B92F-AFDC163D5FC1}|HandlingExceptions\\HandlingExceptions.csproj|d:\\cs14net10\\chapter3\\handlingexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66822A87-9DF6-4264-B92F-AFDC163D5FC1}|HandlingExceptions\\HandlingExceptions.csproj|solutionrelative:handlingexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B6C7A0-8B21-4884-91DB-F7D80C329BCB}|CastingConverting\\CastingConverting.csproj|d:\\cs14net10\\chapter3\\castingconverting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6B6C7A0-8B21-4884-91DB-F7D80C329BCB}|CastingConverting\\CastingConverting.csproj|solutionrelative:castingconverting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1F51893-F936-436F-8827-230740D68C22}|IterationStatements\\IterationStatements.csproj|d:\\cs14net10\\chapter3\\iterationstatements\\iterationstatements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1F51893-F936-436F-8827-230740D68C22}|IterationStatements\\IterationStatements.csproj|solutionrelative:iterationstatements\\iterationstatements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B6C7A0-8B21-4884-91DB-F7D80C329BCB}|CastingConverting\\CastingConverting.csproj|d:\\cs14net10\\chapter3\\castingconverting\\castingconverting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6B6C7A0-8B21-4884-91DB-F7D80C329BCB}|CastingConverting\\CastingConverting.csproj|solutionrelative:castingconverting\\castingconverting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68FE75A-BA57-40DE-BDFE-D229130579F8}|Tas\\Tas.csproj|d:\\cs14net10\\chapter3\\tas\\tas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F68FE75A-BA57-40DE-BDFE-D229130579F8}|Tas\\Tas.csproj|solutionrelative:tas\\tas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excercise2.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\Excercise2\\Excercise2.csproj",
+              "RelativeDocumentMoniker": "Excercise2\\Excercise2.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\Excercise2\\Excercise2.csproj",
+              "RelativeToolTip": "Excercise2\\Excercise2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T17:03:37.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\Excercise2\\Program.cs",
+              "RelativeDocumentMoniker": "Excercise2\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\Excercise2\\Program.cs*",
+              "RelativeToolTip": "Excercise2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T17:03:02.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Excercise1.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\Excercise1\\Excercise1.csproj",
+              "RelativeDocumentMoniker": "Excercise1\\Excercise1.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\Excercise1\\Excercise1.csproj",
+              "RelativeToolTip": "Excercise1\\Excercise1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-27T16:53:07.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\Excercise1\\Program.cs",
+              "RelativeDocumentMoniker": "Excercise1\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\Excercise1\\Program.cs",
+              "RelativeToolTip": "Excercise1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T16:52:58.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IterationStatements.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\IterationStatements\\IterationStatements.csproj",
+              "RelativeDocumentMoniker": "IterationStatements\\IterationStatements.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\IterationStatements\\IterationStatements.csproj",
+              "RelativeToolTip": "IterationStatements\\IterationStatements.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T17:57:34.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandlingExceptions.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\HandlingExceptions\\HandlingExceptions.csproj",
+              "RelativeDocumentMoniker": "HandlingExceptions\\HandlingExceptions.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\HandlingExceptions\\HandlingExceptions.csproj",
+              "RelativeToolTip": "HandlingExceptions\\HandlingExceptions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T17:57:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\HandlingExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "HandlingExceptions\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\HandlingExceptions\\Program.cs",
+              "RelativeToolTip": "HandlingExceptions\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvx8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T17:56:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CastingConverting.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\CastingConverting\\CastingConverting.csproj",
+              "RelativeDocumentMoniker": "CastingConverting\\CastingConverting.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\CastingConverting\\CastingConverting.csproj",
+              "RelativeToolTip": "CastingConverting\\CastingConverting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-10T18:48:03.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\CastingConverting\\Program.cs",
+              "RelativeDocumentMoniker": "CastingConverting\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\CastingConverting\\Program.cs",
+              "RelativeToolTip": "CastingConverting\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADwv08AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T18:46:16.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tas.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter3\\Tas\\Tas.csproj",
+              "RelativeDocumentMoniker": "Tas\\Tas.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter3\\Tas\\Tas.csproj",
+              "RelativeToolTip": "Tas\\Tas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-09T13:23:08.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

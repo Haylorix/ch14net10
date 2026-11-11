@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="CastingConverting/CastingConverting.csproj" Id="c6b6c7a0-8b21-4884-91db-f7d80c329bcb" />
+  <Project Path="Excercise1/Excercise1.csproj" Id="b6f206ec-2c25-404b-874d-2f49a6a62b03" />
+  <Project Path="Excercise2/Excercise2.csproj" Id="dda6bb98-6d17-49ee-a3ae-851bced17e69" />
+  <Project Path="HandlingExceptions/HandlingExceptions.csproj" Id="66822a87-9df6-4264-b92f-afdc163d5fc1" />
+  <Project Path="IterationStatements/IterationStatements.csproj" Id="c1f51893-f936-436f-8827-230740d68c22" />
+  <Project Path="Operators/Operators.csproj" />
+  <Project Path="SelectionStatements/SelectionStatements.csproj" Id="90dfd953-54ff-4f0d-ab2f-b1e07f7e8bd9" />
+  <Project Path="Tas/Tas.csproj" Id="f68fe75a-ba57-40de-bdfe-d229130579f8" />
+</Solution>

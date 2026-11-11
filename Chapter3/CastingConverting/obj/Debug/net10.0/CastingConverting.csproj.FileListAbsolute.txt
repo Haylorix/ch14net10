@@ -1,0 +1,15 @@
+D:\cs14net10\Chapter3\CastingConverting\bin\Debug\net10.0\CastingConverting.exe
+D:\cs14net10\Chapter3\CastingConverting\bin\Debug\net10.0\CastingConverting.deps.json
+D:\cs14net10\Chapter3\CastingConverting\bin\Debug\net10.0\CastingConverting.runtimeconfig.json
+D:\cs14net10\Chapter3\CastingConverting\bin\Debug\net10.0\CastingConverting.dll
+D:\cs14net10\Chapter3\CastingConverting\bin\Debug\net10.0\CastingConverting.pdb
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.AssemblyInfo.cs
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.dll
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\refint\CastingConverting.dll
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.pdb
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingConverting.genruntimeconfig.cache
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\ref\CastingConverting.dll
+D:\cs14net10\Chapter3\CastingConverting\obj\Debug\net10.0\CastingC.E19D7C0E.Up2Date
