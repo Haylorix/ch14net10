@@ -1,0 +1,16 @@
+D:\cs14net10\Chapter08\WorkingWithNumbers\bin\Debug\net10.0\WorkingWithNumbers.exe
+D:\cs14net10\Chapter08\WorkingWithNumbers\bin\Debug\net10.0\WorkingWithNumbers.deps.json
+D:\cs14net10\Chapter08\WorkingWithNumbers\bin\Debug\net10.0\WorkingWithNumbers.runtimeconfig.json
+D:\cs14net10\Chapter08\WorkingWithNumbers\bin\Debug\net10.0\WorkingWithNumbers.dll
+D:\cs14net10\Chapter08\WorkingWithNumbers\bin\Debug\net10.0\WorkingWithNumbers.pdb
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.AssemblyInfo.cs
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.sourcelink.json
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.dll
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\refint\WorkingWithNumbers.dll
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.pdb
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingWithNumbers.genruntimeconfig.cache
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\ref\WorkingWithNumbers.dll
+D:\cs14net10\Chapter08\WorkingWithNumbers\obj\Debug\net10.0\WorkingW.E4DD0141.Up2Date

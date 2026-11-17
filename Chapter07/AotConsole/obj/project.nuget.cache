@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcMK83b4BpM=",
+  "success": true,
+  "projectFilePath": "D:\\cs14net10\\Chapter07\\AotConsole\\AotConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.14\\microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.15\\microsoft.net.illink.tasks.10.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.14\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.14\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.14.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.15\\microsoft.aspnetcore.app.runtime.win-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.15\\microsoft.netcore.app.runtime.win-x64.10.0.15.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.app.runtime.nativeaot.win-x64\\10.0.14\\microsoft.netcore.app.runtime.nativeaot.win-x64.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

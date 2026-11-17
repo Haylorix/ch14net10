@@ -1,0 +1,16 @@
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.AssemblyInfo.cs
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.sourcelink.json
+D:\cs14net10\Chapter08\WorkingWithText\bin\Debug\net10.0\WorkingWithText.exe
+D:\cs14net10\Chapter08\WorkingWithText\bin\Debug\net10.0\WorkingWithText.deps.json
+D:\cs14net10\Chapter08\WorkingWithText\bin\Debug\net10.0\WorkingWithText.runtimeconfig.json
+D:\cs14net10\Chapter08\WorkingWithText\bin\Debug\net10.0\WorkingWithText.dll
+D:\cs14net10\Chapter08\WorkingWithText\bin\Debug\net10.0\WorkingWithText.pdb
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.dll
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\refint\WorkingWithText.dll
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.pdb
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingWithText.genruntimeconfig.cache
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\ref\WorkingWithText.dll
+D:\cs14net10\Chapter08\WorkingWithText\obj\Debug\net10.0\WorkingW.16693B7B.Up2Date

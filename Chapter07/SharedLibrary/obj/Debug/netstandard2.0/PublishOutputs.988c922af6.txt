@@ -1,0 +1,3 @@
+D:\cs14net10\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\publish\SharedLibrary.dll
+D:\cs14net10\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\publish\SharedLibrary.deps.json
+D:\cs14net10\Chapter07\SharedLibrary\bin\Debug\netstandard2.0\publish\SharedLibrary.pdb

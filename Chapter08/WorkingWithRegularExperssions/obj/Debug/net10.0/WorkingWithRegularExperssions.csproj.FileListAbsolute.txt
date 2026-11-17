@@ -1,0 +1,16 @@
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.AssemblyInfo.cs
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.sourcelink.json
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\bin\Debug\net10.0\WorkingWithRegularExperssions.exe
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\bin\Debug\net10.0\WorkingWithRegularExperssions.deps.json
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\bin\Debug\net10.0\WorkingWithRegularExperssions.runtimeconfig.json
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\bin\Debug\net10.0\WorkingWithRegularExperssions.dll
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\bin\Debug\net10.0\WorkingWithRegularExperssions.pdb
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.dll
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\refint\WorkingWithRegularExperssions.dll
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.pdb
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingWithRegularExperssions.genruntimeconfig.cache
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\ref\WorkingWithRegularExperssions.dll
+D:\cs14net10\Chapter08\WorkingWithRegularExperssions\obj\Debug\net10.0\WorkingW.8EE4E904.Up2Date

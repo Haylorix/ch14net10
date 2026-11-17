@@ -1,0 +1,17 @@
+D:\cs14net10\Chapter07\DotNetEverywhere\bin\Debug\net10.0\DotNetEverywhere.exe
+D:\cs14net10\Chapter07\DotNetEverywhere\bin\Debug\net10.0\DotNetEverywhere.deps.json
+D:\cs14net10\Chapter07\DotNetEverywhere\bin\Debug\net10.0\DotNetEverywhere.runtimeconfig.json
+D:\cs14net10\Chapter07\DotNetEverywhere\bin\Debug\net10.0\DotNetEverywhere.dll
+D:\cs14net10\Chapter07\DotNetEverywhere\bin\Debug\net10.0\DotNetEverywhere.pdb
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.AssemblyInfo.cs
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.sourcelink.json
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.dll
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\refint\DotNetEverywhere.dll
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.pdb
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEverywhere.genruntimeconfig.cache
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\ref\DotNetEverywhere.dll
+D:\cs14net10\Chapter07\DotNetEverywhere\obj\Debug\net10.0\DotNetEv.54B53539.Up2Date
+D:\cs14net10\Chapter07\DotNetEverywhere\bin\Debug\net10.0\DotNetEverywhere.runtimeconfig.dev.json

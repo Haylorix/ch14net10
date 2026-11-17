@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WorkingWithCollections/WorkingWithCollections.csproj" Id="6eb63ad8-e781-4a28-a8cd-43ab3a09009d" />
+  <Project Path="WorkingWithNumbers/WorkingWithNumbers.csproj" />
+  <Project Path="WorkingWithRegularExperssions/WorkingWithRegularExperssions.csproj" Id="593b1ae5-3f7f-43d5-9a65-649cbc1a757c" />
+  <Project Path="WorkingWithText/WorkingWithText.csproj" Id="f1e22eac-cd92-47b1-a923-96461cfe2afd" />
+</Solution>

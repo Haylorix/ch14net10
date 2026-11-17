@@ -1,0 +1,16 @@
+D:\cs14net10\Chapter08\WorkingWithCollections\bin\Debug\net10.0\WorkingWithCollections.exe
+D:\cs14net10\Chapter08\WorkingWithCollections\bin\Debug\net10.0\WorkingWithCollections.deps.json
+D:\cs14net10\Chapter08\WorkingWithCollections\bin\Debug\net10.0\WorkingWithCollections.runtimeconfig.json
+D:\cs14net10\Chapter08\WorkingWithCollections\bin\Debug\net10.0\WorkingWithCollections.dll
+D:\cs14net10\Chapter08\WorkingWithCollections\bin\Debug\net10.0\WorkingWithCollections.pdb
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.AssemblyInfo.cs
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.sourcelink.json
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.dll
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\refint\WorkingWithCollections.dll
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.pdb
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingWithCollections.genruntimeconfig.cache
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\ref\WorkingWithCollections.dll
+D:\cs14net10\Chapter08\WorkingWithCollections\obj\Debug\net10.0\WorkingW.0B3388B2.Up2Date

@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs14net10\\Chapter08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB63AD8-E781-4A28-A8CD-43AB3A09009D}|WorkingWithCollections\\WorkingWithCollections.csproj|d:\\cs14net10\\chapter08\\workingwithcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB63AD8-E781-4A28-A8CD-43AB3A09009D}|WorkingWithCollections\\WorkingWithCollections.csproj|solutionrelative:workingwithcollections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA2B4F8-B697-E964-D501-9DA623020321}|WorkingWithNumbers\\WorkingWithNumbers.csproj|d:\\cs14net10\\chapter08\\workingwithnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA2B4F8-B697-E964-D501-9DA623020321}|WorkingWithNumbers\\WorkingWithNumbers.csproj|solutionrelative:workingwithnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB63AD8-E781-4A28-A8CD-43AB3A09009D}|WorkingWithCollections\\WorkingWithCollections.csproj|d:\\cs14net10\\chapter08\\workingwithcollections\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB63AD8-E781-4A28-A8CD-43AB3A09009D}|WorkingWithCollections\\WorkingWithCollections.csproj|solutionrelative:workingwithcollections\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA2B4F8-B697-E964-D501-9DA623020321}|WorkingWithNumbers\\WorkingWithNumbers.csproj|d:\\cs14net10\\chapter08\\workingwithnumbers\\workingwithnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6DA2B4F8-B697-E964-D501-9DA623020321}|WorkingWithNumbers\\WorkingWithNumbers.csproj|solutionrelative:workingwithnumbers\\workingwithnumbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB63AD8-E781-4A28-A8CD-43AB3A09009D}|WorkingWithCollections\\WorkingWithCollections.csproj|d:\\cs14net10\\chapter08\\workingwithcollections\\workingwithcollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EB63AD8-E781-4A28-A8CD-43AB3A09009D}|WorkingWithCollections\\WorkingWithCollections.csproj|solutionrelative:workingwithcollections\\workingwithcollections.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|d:\\cs14net10\\chapter08\\workingwithregularexperssions\\program.regexs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|solutionrelative:workingwithregularexperssions\\program.regexs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|d:\\cs14net10\\chapter08\\workingwithregularexperssions\\program.strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|solutionrelative:workingwithregularexperssions\\program.strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|d:\\cs14net10\\chapter08\\workingwithregularexperssions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|solutionrelative:workingwithregularexperssions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E22EAC-CD92-47B1-A923-96461CFE2AFD}|WorkingWithText\\WorkingWithText.csproj|d:\\cs14net10\\chapter08\\workingwithtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E22EAC-CD92-47B1-A923-96461CFE2AFD}|WorkingWithText\\WorkingWithText.csproj|solutionrelative:workingwithtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|d:\\cs14net10\\chapter08\\workingwithregularexperssions\\workingwithregularexperssions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{593B1AE5-3F7F-43D5-9A65-649CBC1A757C}|WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj|solutionrelative:workingwithregularexperssions\\workingwithregularexperssions.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E22EAC-CD92-47B1-A923-96461CFE2AFD}|WorkingWithText\\WorkingWithText.csproj|d:\\cs14net10\\chapter08\\workingwithtext\\workingwithtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1E22EAC-CD92-47B1-A923-96461CFE2AFD}|WorkingWithText\\WorkingWithText.csproj|solutionrelative:workingwithtext\\workingwithtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.Helpers.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithCollections\\Program.Helpers.cs",
+              "RelativeDocumentMoniker": "WorkingWithCollections\\Program.Helpers.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithCollections\\Program.Helpers.cs",
+              "RelativeToolTip": "WorkingWithCollections\\Program.Helpers.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAD4vyIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T19:00:29.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithCollections\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithCollections\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithCollections\\Program.cs*",
+              "RelativeToolTip": "WorkingWithCollections\\Program.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T18:58:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.Regexs.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\Program.Regexs.cs",
+              "RelativeDocumentMoniker": "WorkingWithRegularExperssions\\Program.Regexs.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\Program.Regexs.cs",
+              "RelativeToolTip": "WorkingWithRegularExperssions\\Program.Regexs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T18:25:23.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.Strings.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\Program.Strings.cs",
+              "RelativeDocumentMoniker": "WorkingWithRegularExperssions\\Program.Strings.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\Program.Strings.cs",
+              "RelativeToolTip": "WorkingWithRegularExperssions\\Program.Strings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T18:07:12.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkingWithRegularExperssions.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj",
+              "RelativeDocumentMoniker": "WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj",
+              "RelativeToolTip": "WorkingWithRegularExperssions\\WorkingWithRegularExperssions.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-15T17:14:55.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithRegularExperssions\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithRegularExperssions\\Program.cs",
+              "RelativeToolTip": "WorkingWithRegularExperssions\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T17:14:27.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkingWithNumbers.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
+              "RelativeDocumentMoniker": "WorkingWithNumbers\\WorkingWithNumbers.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithNumbers\\WorkingWithNumbers.csproj",
+              "RelativeToolTip": "WorkingWithNumbers\\WorkingWithNumbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T13:38:23.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithNumbers\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithNumbers\\Program.cs",
+              "RelativeToolTip": "WorkingWithNumbers\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAWwFAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T13:38:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkingWithCollections.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithCollections\\WorkingWithCollections.csproj",
+              "RelativeDocumentMoniker": "WorkingWithCollections\\WorkingWithCollections.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithCollections\\WorkingWithCollections.csproj",
+              "RelativeToolTip": "WorkingWithCollections\\WorkingWithCollections.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-15T18:58:43.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkingWithText.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithText\\WorkingWithText.csproj",
+              "RelativeDocumentMoniker": "WorkingWithText\\WorkingWithText.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithText\\WorkingWithText.csproj",
+              "RelativeToolTip": "WorkingWithText\\WorkingWithText.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-14T17:34:57.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter08\\WorkingWithText\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithText\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter08\\WorkingWithText\\Program.cs",
+              "RelativeToolTip": "WorkingWithText\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwGEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T17:34:29.429Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

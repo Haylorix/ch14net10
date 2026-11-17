@@ -1,0 +1,19 @@
+﻿using System.Xml.Linq; // To use XDocument
+using System; // To use String
+
+
+XDocument doc = new();
+
+string s1 = "Hello";
+String s2 = "World";
+using Packt.Shared;
+
+WriteLine($"{s1} {s2}");
+
+WriteLine($"Enviornment.Is64BitProcess = {Environment.Is64BitOperatingSystem}");
+WriteLine($"int.MaxValue  = {int.MaxValue:N0}");
+WriteLine($"nint.MaxValue = {nint.MaxValue:N0}");
+
+Write("Enter a color value in Hex: ");
+string? hex = ReadLine();
+WriteLine("");

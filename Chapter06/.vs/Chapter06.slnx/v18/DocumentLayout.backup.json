@@ -3,88 +3,88 @@
   "WorkspaceRootPath": "D:\\cs14net10\\Chapter06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A64FDDB0-788F-4229-ADA2-FA8E8A558FEA}|Exercise-Inheritance\\Exercise-Inheritance.csproj|d:\\cs14net10\\chapter06\\exercise-inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64FDDB0-788F-4229-ADA2-FA8E8A558FEA}|Exercise-Inheritance\\Exercise-Inheritance.csproj|solutionrelative:exercise-inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\PeopleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PeopleApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A64FDDB0-788F-4229-ADA2-FA8E8A558FEA}|Exercise-Inheritance\\Exercise-Inheritance.csproj|d:\\cs14net10\\chapter06\\exercise-inheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A64FDDB0-788F-4229-ADA2-FA8E8A558FEA}|Exercise-Inheritance\\Exercise-Inheritance.csproj|solutionrelative:exercise-inheritance\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\PersonComparercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\PersonComparercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\personcomparercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\personcomparercs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\PersonException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\PersonException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6104B47-A8B4-4E44-BEFA-6DC33505D4FE}|NullHandling\\NullHandling.csproj|d:\\cs14net10\\chapter06\\nullhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6104B47-A8B4-4E44-BEFA-6DC33505D4FE}|NullHandling\\NullHandling.csproj|solutionrelative:nullhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\RecordDisplacementVector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\RecordDisplacementVector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A64FDDB0-788F-4229-ADA2-FA8E8A558FEA}|Exercise-Inheritance\\Exercise-Inheritance.csproj|d:\\cs14net10\\chapter06\\exercise-inheritance\\exercise-inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A64FDDB0-788F-4229-ADA2-FA8E8A558FEA}|Exercise-Inheritance\\Exercise-Inheritance.csproj|solutionrelative:exercise-inheritance\\exercise-inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\StringExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\StringExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6104B47-A8B4-4E44-BEFA-6DC33505D4FE}|NullHandling\\NullHandling.csproj|d:\\cs14net10\\chapter06\\nullhandling\\nullhandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F6104B47-A8B4-4E44-BEFA-6DC33505D4FE}|NullHandling\\NullHandling.csproj|solutionrelative:nullhandling\\nullhandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercise-Inheritance\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|d:\\cs14net10\\chapter06\\peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Exercise-Inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercise-Inheritance\\Exercise-Inheritance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Exercise-Inheritance\\Shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\Mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\Mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\personexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\personexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\mutability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\NullHandling\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NullHandling\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|d:\\cs14net10\\chapter06\\peopleapp\\program.eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.eventhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\NullHandling\\NullHandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NullHandling\\NullHandling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\NullHandling\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NullHandling\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|d:\\cs14net10\\chapter06\\peopleapp\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\program.helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\DisplecementVector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\DisplecementVector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6104B47-A8B4-4E44-BEFA-6DC33505D4FE}|NullHandling\\NullHandling.csproj|d:\\cs14net10\\chapter06\\nullhandling\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6104B47-A8B4-4E44-BEFA-6DC33505D4FE}|NullHandling\\NullHandling.csproj|solutionrelative:nullhandling\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\DvdPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\DvdPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\recorddisplacementvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\recorddisplacementvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\IPlayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\IPlayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\displecementvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\displecementvector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\PeopleApp\\Program.Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PeopleApp\\Program.Helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\packtlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\PeopleApp\\Program.EventHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PeopleApp\\Program.EventHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\PeopleApp\\PeopleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PeopleApp\\PeopleApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|d:\\cs14net10\\chapter06\\classlib\\dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BBCF38-C958-7E66-E71E-2719D61F2B9A}|classlib\\PacktLibrary.csproj|solutionrelative:classlib\\dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\PacktLibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\PacktLibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|d:\\cs14net10\\chapter06\\peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9EB003A9-ED27-5C91-D3F1-EDF75B4977B8}|PeopleApp\\PeopleApp.csproj|solutionrelative:peopleapp\\peopleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\cs14net10\\Chapter06\\classlib\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:classlib\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,50 +94,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Exercise-Inheritance",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Exercise-Inheritance.csproj",
-              "RelativeDocumentMoniker": "Exercise-Inheritance\\Exercise-Inheritance.csproj",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Exercise-Inheritance.csproj",
-              "RelativeToolTip": "Exercise-Inheritance\\Exercise-Inheritance.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-11T15:28:08.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Shape.cs",
-              "RelativeDocumentMoniker": "Exercise-Inheritance\\Shape.cs",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Shape.cs*",
-              "RelativeToolTip": "Exercise-Inheritance\\Shape.cs*",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwEQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T15:21:01.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "Exercise-Inheritance\\Program.cs",
               "ToolTip": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Program.cs",
               "RelativeToolTip": "Exercise-Inheritance\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-11T15:20:45.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "StringExtensions.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\StringExtensions.cs",
               "RelativeDocumentMoniker": "classlib\\StringExtensions.cs",
@@ -150,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "PersonException.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\PersonException.cs",
               "RelativeDocumentMoniker": "classlib\\PersonException.cs",
@@ -164,32 +138,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Mutability.cs",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\Mutability.cs",
-              "RelativeDocumentMoniker": "classlib\\Mutability.cs",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\classlib\\Mutability.cs",
-              "RelativeToolTip": "classlib\\Mutability.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T14:09:10.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\Employee.cs",
-              "RelativeDocumentMoniker": "classlib\\Employee.cs",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\classlib\\Employee.cs",
-              "RelativeToolTip": "classlib\\Employee.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T13:06:16.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "Address.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\NullHandling\\Address.cs",
               "RelativeDocumentMoniker": "NullHandling\\Address.cs",
@@ -201,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "NullHandling.csproj",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\NullHandling\\NullHandling.csproj",
               "RelativeDocumentMoniker": "NullHandling\\NullHandling.csproj",
@@ -209,25 +157,11 @@
               "RelativeToolTip": "NullHandling\\NullHandling.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-10T16:27:47.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T16:27:47.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\NullHandling\\Program.cs",
-              "RelativeDocumentMoniker": "NullHandling\\Program.cs",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\NullHandling\\Program.cs",
-              "RelativeToolTip": "NullHandling\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T16:27:40.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "RecordDisplacementVector.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\RecordDisplacementVector.cs",
               "RelativeDocumentMoniker": "classlib\\RecordDisplacementVector.cs",
@@ -235,11 +169,98 @@
               "RelativeToolTip": "classlib\\RecordDisplacementVector.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T16:08:58.368Z"
+              "WhenOpened": "2026-11-10T16:08:58.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
+              "Title": "PersonComparercs.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\PersonComparercs.cs",
+              "RelativeDocumentMoniker": "classlib\\PersonComparercs.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\classlib\\PersonComparercs.cs",
+              "RelativeToolTip": "classlib\\PersonComparercs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T14:53:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\PeopleApp\\Program.cs",
+              "RelativeToolTip": "PeopleApp\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAGUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T09:53:50.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\Employee.cs",
+              "RelativeDocumentMoniker": "classlib\\Employee.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\classlib\\Employee.cs",
+              "RelativeToolTip": "classlib\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T13:06:16.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Mutability.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\Mutability.cs",
+              "RelativeDocumentMoniker": "classlib\\Mutability.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\classlib\\Mutability.cs",
+              "RelativeToolTip": "classlib\\Mutability.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:09:10.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Shape.cs",
+              "RelativeDocumentMoniker": "Exercise-Inheritance\\Shape.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Shape.cs",
+              "RelativeToolTip": "Exercise-Inheritance\\Shape.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:21:01.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercise-Inheritance.csproj",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Exercise-Inheritance.csproj",
+              "RelativeDocumentMoniker": "Exercise-Inheritance\\Exercise-Inheritance.csproj",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\Exercise-Inheritance\\Exercise-Inheritance.csproj",
+              "RelativeToolTip": "Exercise-Inheritance\\Exercise-Inheritance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T15:28:08.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\NullHandling\\Program.cs",
+              "RelativeDocumentMoniker": "NullHandling\\Program.cs",
+              "ToolTip": "D:\\cs14net10\\Chapter06\\NullHandling\\Program.cs",
+              "RelativeToolTip": "NullHandling\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-10T16:27:40.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DisplecementVector.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\DisplecementVector.cs",
               "RelativeDocumentMoniker": "classlib\\DisplecementVector.cs",
@@ -251,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 14,
               "Title": "DvdPlayer.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\DvdPlayer.cs",
               "RelativeDocumentMoniker": "classlib\\DvdPlayer.cs",
@@ -263,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "IPlayable.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\IPlayable.cs",
               "RelativeDocumentMoniker": "classlib\\IPlayable.cs",
@@ -275,20 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PersonComparercs.cs",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\PersonComparercs.cs",
-              "RelativeDocumentMoniker": "classlib\\PersonComparercs.cs",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\classlib\\PersonComparercs.cs",
-              "RelativeToolTip": "classlib\\PersonComparercs.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T14:53:55.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.Helpers.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\PeopleApp\\Program.Helpers.cs",
               "RelativeDocumentMoniker": "PeopleApp\\Program.Helpers.cs",
@@ -296,12 +304,11 @@
               "RelativeToolTip": "PeopleApp\\Program.Helpers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T14:14:49.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T14:14:49.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Program.EventHandlers.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\PeopleApp\\Program.EventHandlers.cs",
               "RelativeDocumentMoniker": "PeopleApp\\Program.EventHandlers.cs",
@@ -309,12 +316,11 @@
               "RelativeToolTip": "PeopleApp\\Program.EventHandlers.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-10T13:43:59.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-10T13:43:59.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "PeopleApp.csproj",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\PeopleApp\\PeopleApp.csproj",
               "RelativeDocumentMoniker": "PeopleApp\\PeopleApp.csproj",
@@ -322,12 +328,11 @@
               "RelativeToolTip": "PeopleApp\\PeopleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-08T17:05:25.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T17:05:25.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "PacktLibrary.csproj",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\PacktLibrary.csproj",
               "RelativeDocumentMoniker": "classlib\\PacktLibrary.csproj",
@@ -335,25 +340,11 @@
               "RelativeToolTip": "classlib\\PacktLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-08T17:03:57.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-08T17:03:57.851Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\cs14net10\\Chapter06\\PeopleApp\\Program.cs",
-              "RelativeDocumentMoniker": "PeopleApp\\Program.cs",
-              "ToolTip": "D:\\cs14net10\\Chapter06\\PeopleApp\\Program.cs",
-              "RelativeToolTip": "PeopleApp\\Program.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAcwMQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T09:53:50.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\cs14net10\\Chapter06\\classlib\\Person.cs",
               "RelativeDocumentMoniker": "classlib\\Person.cs",
@@ -361,8 +352,7 @@
               "RelativeToolTip": "classlib\\Person.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAwGMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-06T09:52:02.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-06T09:52:02.628Z"
             }
           ]
         }

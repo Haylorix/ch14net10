@@ -1,0 +1,16 @@
+D:\cs14net10\Chapter07\AotConsole\bin\Debug\net10.0\AotConsole.exe
+D:\cs14net10\Chapter07\AotConsole\bin\Debug\net10.0\AotConsole.deps.json
+D:\cs14net10\Chapter07\AotConsole\bin\Debug\net10.0\AotConsole.runtimeconfig.json
+D:\cs14net10\Chapter07\AotConsole\bin\Debug\net10.0\AotConsole.dll
+D:\cs14net10\Chapter07\AotConsole\bin\Debug\net10.0\AotConsole.pdb
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.AssemblyInfoInputs.cache
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.AssemblyInfo.cs
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.csproj.CoreCompileInputs.cache
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.sourcelink.json
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.dll
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\refint\AotConsole.dll
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.pdb
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.genruntimeconfig.cache
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\ref\AotConsole.dll
+D:\cs14net10\Chapter07\AotConsole\obj\Debug\net10.0\AotConsole.csproj.Up2Date
